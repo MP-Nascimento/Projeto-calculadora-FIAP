@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculadora</string>
+    <string name="app_name">Calculadora de Combustivel</string>
     <string name="alcool_ou_gasolina">Alcool ou Gasolina</string>
     <string name="todo">gas</string>
     <string name="melhor_op_o_para_seu_carro_flex">A melhor opição para seu carro Flex!</string>
