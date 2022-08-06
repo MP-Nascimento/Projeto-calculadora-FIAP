@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="alcool_ou_gasolina">Alcool ou Gasolina</string>
+    <string name="todo">gas</string>
+    <string name="melhor_op_o_para_seu_carro_flex">A melhor opição para seu carro Flex!</string>
+    <string name="pre_do_lcool_r_3_70">Perço do alcool R$ 3.70</string>
+    <string name="pre_da_gasolina_r_3_70">Perço da gasolina R$ 5.75</string>
+    <string name="calcular">Calcular</string>
+    <string name="nenhuma_op_o_escolhida">Nenhuma opção escolhida</string>
+</resources>
